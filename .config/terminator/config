@@ -5,6 +5,11 @@
   title_transmit_bg_color = "#839496"
   title_transmit_fg_color = "#eee8d5"
 [keybindings]
+  go_left = <Alt>h
+  go_down = <Alt>j
+  go_right = <Alt>l
+  go_up = <Alt>k
+
 [layouts]
   [[default]]
     [[[child1]]]
