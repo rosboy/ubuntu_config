@@ -2393,9 +2393,10 @@ gigporno.ru
 |https://gist.github.com
 http://cthlo.github.io/hktv
 !--|http://onionhacker.github.io
+.github.io
 wsgzao.github.io
 ||wsgzao.github.io
-!--.github.io
+--.github.io
 
 .gizlen.net
 ||gizlen.net
